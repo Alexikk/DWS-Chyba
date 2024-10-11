@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(73, 173, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 35px;
+
+  }
+
+ button {
+  border: none;
+  cursor: default;
+  border-radius: 8px;
+
+ }
+
+
+
+
+  
